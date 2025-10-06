@@ -30,6 +30,32 @@
 
 ---
 
+<h3 align="center">Featured Projects</h3>
+<div align="center">
+  <a href="https://github.com/abdulrahman11a/MyZoo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahman11a&repo=MyZoo&theme=highcontrast" />
+  </a>
+  <p style="font-size:14px; color:#aaa;">
+    🐾 <strong>MyZoo API</strong> — Clinic & Veterinary Management API using <strong>Onion Architecture </strong>, <strong>Redis Caching</strong>, <strong>JWT & 2FA Authentication</strong>, <strong>Google OAuth2</strong>, <strong>Hangfire Background Jobs</strong>, and <strong>QR-based Prescription System</strong>.
+  </p>
+
+  <a href="https://github.com/abdulrahman11a/Talabat_Web_Api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahman11a&repo=Talabat_Web_Api&theme=highcontrast" />
+  </a>
+  <p style="font-size:14px; color:#aaa;">
+    🛒 <strong>Talabat Web API</strong> — Scalable E-commerce Platform using <strong>.NET 8</strong> and <strong>Onion Architecture</strong>. Features include <strong>JWT Authentication</strong>, <strong>Stripe Payments</strong>, <strong>Specification Pattern for Dynamic Filtering</strong>, and <strong>Redis Optimizations</strong>.
+  </p>
+
+  <a href="https://github.com/abdulrahman11a/CRUD_Operations_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahman11a&repo=CRUD_Operations_Project&theme=highcontrast" />
+  </a>
+  <p style="font-size:14px; color:#aaa;">
+    📋 <strong>CRUD Operations Project</strong> — Full-stack ASP.NET Core MVC Application with <strong>Entity Framework Core</strong>, providing <strong>robust Create, Read, Update, Delete operations</strong> and <strong>clean UI/UX design</strong>.
+  </p>
+</div>
+
+---
+
 <p align="center">
   <a href="https://github.com/abdulrahman11a">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20for%20more%20updates!;Explore%20my%20latest%20projects;Let's%20build%20amazing%20things!&font=Poppins&center=true&color=3AF280&pause=2000">
