@@ -86,8 +86,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abdulrahman11a&layout=compact&langs_count=6&theme=highcontrast" height="135"/> &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=abdulrahman11a&theme=highcontrast" height="135"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman11a&layout=compact&langs_count=6&theme=highcontrast" height="135"/>
 </p>
 
 <p align="center">
