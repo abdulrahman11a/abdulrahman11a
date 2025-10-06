@@ -66,6 +66,25 @@
   </div>
 
 </div>
+<hr>
+
+<h3 align="center">📄 My CV & Profile Stats</h3>
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:10px;">
+
+  <!-- CV Button -->
+  <a href="https://drive.google.com/drive/folders/1nG5q3Yl-fvFKML0jFUDFy3qa5CEEFbpV" 
+     style="background:#004520; color:#fff; font-weight:bold; padding:12px 20px; border-radius:12px; text-decoration:none; box-shadow:0 5px 15px rgba(0,0,0,0.3); transition:transform 0.3s;">
+    📂 View My CV
+  </a>
+
+  <!-- Views Badge -->
+  <a href="https://drive.google.com/drive/folders/1nG5q3Yl-fvFKML0jFUDFy3qa5CEEFbpV" 
+     style="background:#00307A; color:#fff; font-weight:bold; padding:12px 20px; border-radius:12px; text-decoration:none; box-shadow:0 5px 15px rgba(0,0,0,0.3); transition:transform 0.3s;">
+     CV Views: <strong>1245</strong>
+  </a>
+
+</div>
+
 
 ---
 
