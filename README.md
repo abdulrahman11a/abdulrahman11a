@@ -13,11 +13,10 @@
 
 ---
 
-### 🧭 About Me
-
- Passionate **.NET Developer** focused on building scalable, maintainable backend systems and writing **clean, efficient, and reliable code**.  
- I love solving **algorithmic challenges** and following best practices like **SOLID**, **Design Patterns**, and **Clean Architecture**.  
- Always learning, improving, and contributing to open-source projects.  
+### ⚡ Core Focus
+<p align="center" style="color:#555;">
+ Building scalable, maintainable backend systems with <strong>.NET Core</strong>, solving algorithmic challenges, and following <strong>SOLID principles</strong> & Clean Architecture.
+</p>
 
 <div align="center">
   <div style="background:linear-gradient(135deg,#fdfdfd,#f5f5f5); border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.05); padding:18px; display:inline-block; margin-top:10px;">
@@ -30,56 +29,33 @@
 
 ---
 
-<h3 align="center">Featured Projects</h3>
+<h2 align="center">✨ My Professional Projects</h2>
 <div align="center">
   <a href="https://github.com/abdulrahman11a/MyZoo">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahman11a&repo=MyZoo&theme=highcontrast" />
   </a>
-  <p style="font-size:14px; color:#aaa;">
-    🐾 <strong>MyZoo API</strong> — Clinic & Veterinary Management API using <strong>Onion Architecture </strong>, <strong>Redis Caching</strong>, <strong>JWT & 2FA Authentication</strong>, <strong>Google OAuth2</strong>, <strong>Hangfire Background Jobs</strong>, and <strong>QR-based Prescription System</strong>.
+  <p style="font-size:14px; color:#aaa; max-width:600px;">
+    🐾 <strong>MyZoo API</strong> — Advanced Clinic & Veterinary Management API implementing <strong>Onion Architecture</strong>, <strong>Redis Caching</strong>, <strong>JWT & 2FA Authentication</strong>, <strong>Google OAuth2</strong>, <strong>Hangfire Background Jobs</strong>, and a <strong>QR-based Prescription System</strong> for fast patient access.
   </p>
 
   <a href="https://github.com/abdulrahman11a/Talabat_Web_Api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahman11a&repo=Talabat_Web_Api&theme=highcontrast" />
   </a>
-  <p style="font-size:14px; color:#aaa;">
-    🛒 <strong>Talabat Web API</strong> — Scalable E-commerce Platform using <strong>.NET 8</strong> and <strong>Onion Architecture</strong>. Features include <strong>JWT Authentication</strong>, <strong>Stripe Payments</strong>, <strong>Specification Pattern for Dynamic Filtering</strong>, and <strong>Redis Optimizations</strong>.
+  <p style="font-size:14px; color:#aaa; max-width:600px;">
+    🛒 <strong>Talabat Web API</strong> — High-performance E-commerce Platform with <strong>.NET 8</strong> & <strong>Onion Architecture</strong>. Features <strong>JWT Authentication</strong>, <strong>Stripe Payments</strong>, <strong>Specification Pattern</strong> for dynamic filtering, and <strong>Redis optimizations</strong> for speed.
   </p>
 
   <a href="https://github.com/abdulrahman11a/CRUD_Operations_Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahman11a&repo=CRUD_Operations_Project&theme=highcontrast" />
   </a>
-  <p style="font-size:14px; color:#aaa;">
-    📋 <strong>CRUD Operations Project</strong> — Full-stack ASP.NET Core MVC Application with <strong>Entity Framework Core</strong>, providing <strong>robust Create, Read, Update, Delete operations</strong> and <strong>clean UI/UX design</strong>.
+  <p style="font-size:14px; color:#aaa; max-width:600px;">
+    📋 <strong>CRUD Operations Project</strong> — Full-stack ASP.NET Core MVC Application using <strong>Entity Framework Core</strong> with robust <strong>Create, Read, Update, Delete</strong> functionality and a clean, intuitive <strong>UI/UX design</strong>.
   </p>
 </div>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/abdulrahman11a">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20for%20more%20updates!;Explore%20my%20latest%20projects;Let's%20build%20amazing%20things!&font=Poppins&center=true&color=3AF280&pause=2000">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/abdulrahman11a">
-    <img src="https://komarev.com/ghpvc/?username=abdulrahman11a&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1nG5q3Yl-fvFKML0jFUDFy3qa5CEEFbpV">
-    <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/>
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/abdulrahman-fikry-7787392a6/">
-    <img src="https://img.shields.io/badge/My LinkedIn-00307A?style=flat-square&logo=linkedin&logoColor=white" style="height:32px; object-fit:contain;"/>
-  </a>
-</p>
-
----
-
-### 📤 Connect & Competitive Programming
+<h3 align="center">📨 Connect & Competitive Programming</h3>
 <p align="center">
   <a href="mailto:abdulrahmanfikry1@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="43"/>
@@ -97,19 +73,17 @@
 
 ---
 
-### 🧠 Technical Skills
+<h3 align="center">💻 Technical Skills</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,html,css,js,sql,mongodb,redis,docker,linux,kubernetes,azure,git,github,regex,visualstudio,vscode,postman" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+<h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdulrahman11a&theme=onestar&no-bg=true&no-frame=true&row=1&column=7"/>
 </p>
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman11a&layout=compact&langs_count=6&theme=highcontrast" height="135"/>
@@ -118,8 +92,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
-
----
 
 <h3 align="center" style="color:#3AF280; font-weight:600; font-style:italic;">
   “I'm not a great programmer; I'm just a good programmer with great habits.”
