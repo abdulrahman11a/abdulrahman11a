@@ -1,8 +1,10 @@
 <p align="center">
   <a href="https://gh-most-followed.pages.dev/egypt">
-    <img src="https://img.shields.io/badge/19ᵗʰ Most Followed User 🇪🇬-2025?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <img src="https://img.shields.io/badge/19ᵗʰ Most Followed User 🇪🇬-2025?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/>
+  </a> &nbsp;
   <a href="https://committers.top/egypt">
-    <img src="https://img.shields.io/badge/15ᵗʰ Most Active User 🇪🇬-2025?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
+    <img src="https://img.shields.io/badge/15ᵗʰ Most Active User 🇪🇬-2025?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/>
+  </a>
 </p>
 
 <h1 align="center">Hi, I'm Abdulrahman Fikry 👋</h1>
@@ -18,11 +20,11 @@
 🚀 Always learning, improving, and contributing to open-source projects.  
 
 <div align="center">
-  <div style="background-color:#f6f8fa; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.1); padding:15px; display:inline-block; margin-top:10px;">
-    <p style="font-style:italic; color:#555; font-size:17px;">
+  <div style="background:linear-gradient(135deg,#f9f9f9,#f1f1f1); border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:18px; display:inline-block; margin-top:10px;">
+    <p style="font-style:italic; color:#444; font-size:17px; margin:0;">
       “Clean code always looks like it was written by someone who cares.”
     </p>
-    <p style="color:#777; font-size:14px;">— Robert C. Martin (Uncle Bob)</p>
+    <p style="color:#666; font-size:14px; margin-top:4px;">— Robert C. Martin (Uncle Bob)</p>
   </div>
 </div>
 
@@ -51,28 +53,32 @@
 
 ---
 
-#### `📤 Connect & Competitive Programming`
-<p align="left">
+### 📤 Connect & Competitive Programming
+<p align="center">
   <a href="mailto:abdulrahmanfikry1@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="43"/></a> &nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="43"/>
+  </a> &nbsp;
   <a href="https://www.linkedin.com/in/abdulrahman-fikry-7787392a6/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/></a> &nbsp;
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/>
+  </a> &nbsp;
   <a href="https://codeforces.com/profile/ABDULRAHMANFIKRY0">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="48"/></a> &nbsp;
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="48"/>
+  </a> &nbsp;
   <a href="https://leetcode.com/u/abdulrahmanfikry1/">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="48"/></a>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="48"/>
+  </a>
 </p>
 
 ---
 
-#### `🧠 Technical Skills`
+### 🧠 Technical Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,html,css,js,sql,mongodb,redis,docker,linux,kubernetes,azure,git,github,regex,visualstudio,vscode,postman" />
 </p>
 
 ---
 
-#### `🏆 GitHub Trophies`
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdulrahman11a&theme=onestar&no-bg=true&no-frame=true&row=1&column=7"/>
 </p>
@@ -80,7 +86,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman11a&layout=compact&langs_count=6&theme=highcontrast" height="135"/> &nbsp;
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abdulrahman11a&layout=compact&langs_count=6&theme=highcontrast" height="135"/> &nbsp;
   <img src="https://streak-stats.demolab.com/?user=abdulrahman11a&theme=highcontrast" height="135"/>
 </p>
 
@@ -90,5 +96,5 @@
 
 ---
 
-⭐ **"Code. Learn. Grow."**  
-💬 _Always open to collaboration and learning new technologies._
+<h3 align="center" style="color:#40E050; font-style:italic;">“Code. Learn. Grow.”</h3>
+<p align="center"><i>Always open to collaboration and learning new technologies.</i></p>
