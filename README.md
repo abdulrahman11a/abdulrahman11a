@@ -17,8 +17,14 @@
 🎯 I love solving **algorithmic challenges** and following best practices like **SOLID**, **Design Patterns**, and **Clean Architecture**.  
 🚀 Always learning, improving, and contributing to open-source projects.  
 
-> 🧠 *"Clean code always looks like it was written by someone who cares."*  
-> — **Robert C. Martin (Uncle Bob)**
+<div align="center">
+  <div style="background-color:#f6f8fa; border-radius:10px; box-shadow:0 2px 6px rgba(0,0,0,0.1); padding:15px; display:inline-block; margin-top:10px;">
+    <p style="font-style:italic; color:#555; font-size:17px;">
+      “Clean code always looks like it was written by someone who cares.”
+    </p>
+    <p style="color:#777; font-size:14px;">— Robert C. Martin (Uncle Bob)</p>
+  </div>
+</div>
 
 ---
 
@@ -59,52 +65,26 @@
 
 ---
 
-#### `🧠 Technical Skills Overview`
-
-**Back-End Development:**  
-C# | OOP | Microsoft SQL Server | LINQ | Entity Framework Core | ASP.NET Core API |  
-ASP.NET Core MVC | RESTful API | Caching | Authentication & Authorization  
-
-**Tools & Technologies:**  
-Design Patterns | SOLID Principles | Clean Architecture | Git | GitHub |  
-API Development | Clean Code | Problem Solving | Data Structures & Algorithms  
-
-**Databases & DevOps:**  
-SQL | MongoDB | Redis | Docker | Linux | Kubernetes (K8s) | Azure  
-
-**Networking:**  
-Fundamentals of Computer Networks  
-
-**Operating Systems:**  
-Understanding the Basics of OS Concepts  
-
-**Interpersonal Skills:**  
-Testing & Debugging | Communication | Learning Agility | Agile Methodologies |  
-Collaboration | Troubleshooting | Teamwork | Analytical Thinking | Time Management  
-
----
-
-#### `🛠️ Top Technical Stack`
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,cpp,html,css,js,sql,mongodb,redis,docker,linux,kubernetes,azure,git,github" />
+#### `🧠 Technical Skills`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,html,css,js,sql,mongodb,redis,docker,linux,kubernetes,azure,git,github,regex,visualstudio,vscode,postman" />
 </p>
 
 ---
 
 #### `🏆 GitHub Trophies`
-<p align="left">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=AbdulrahmanFikry&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulrahmanFikry&theme=onestar&no-bg=true&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanFikry&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=AbdulrahmanFikry&theme=highcontrast" height="125"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulrahmanFikry&layout=compact&langs_count=6&theme=highcontrast" height="135"/> &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=AbdulrahmanFikry&theme=highcontrast" height="135"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 
