@@ -30,27 +30,41 @@
 ---
 
 <h2 align="center">✨ My Professional Projects</h2>
-<div align="center">
-  <a href="https://github.com/abdulrahman11a/MyZoo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahman11a&repo=MyZoo&theme=highcontrast" />
-  </a>
-  <p style="font-size:14px; color:#aaa; max-width:600px;">
-    🐾 <strong>MyZoo API</strong> — Advanced Clinic & Veterinary Management API implementing <strong>Onion Architecture</strong>, <strong>Redis Caching</strong>, <strong>JWT & 2FA Authentication</strong>, <strong>Google OAuth2</strong>, <strong>Hangfire Background Jobs</strong>, and a <strong>QR-based Prescription System</strong> for fast patient access.
-  </p>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-  <a href="https://github.com/abdulrahman11a/Talabat_Web_Api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahman11a&repo=Talabat_Web_Api&theme=highcontrast" />
-  </a>
-  <p style="font-size:14px; color:#aaa; max-width:600px;">
-    🛒 <strong>Talabat Web API</strong> — High-performance E-commerce Platform with <strong>.NET 8</strong> & <strong>Onion Architecture</strong>. Features <strong>JWT Authentication</strong>, <strong>Stripe Payments</strong>, <strong>Specification Pattern</strong> for dynamic filtering, and <strong>Redis optimizations</strong> for speed.
-  </p>
+  <!-- Project Card 1 -->
+  <div style="background:#1E1E2F; color:#fff; width:300px; border-radius:12px; padding:20px; box-shadow:0 8px 20px rgba(0,0,0,0.3); transition:transform 0.3s; text-align:left;" 
+       onmouseover="this.style.transform='translateY(-8px)';" 
+       onmouseout="this.style.transform='translateY(0)';">
+    <h2 style="margin-top:0;">🐾 MyZoo API</h2>
+    <p style="font-size:14px; color:#ccc;">
+      Advanced Clinic & Veterinary Management API using <strong>Onion Architecture</strong>, <strong>Redis Caching</strong>, <strong>JWT & 2FA</strong>, <strong>Google OAuth2</strong>, <strong>Hangfire Jobs</strong>, and a <strong>QR-based Prescription System</strong>.
+    </p>
+    <a href="https://github.com/abdulrahman11a/MyZoo" style="color:#40E050; font-weight:bold; text-decoration:none;">View Project →</a>
+  </div>
 
-  <a href="https://github.com/abdulrahman11a/CRUD_Operations_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahman11a&repo=CRUD_Operations_Project&theme=highcontrast" />
-  </a>
-  <p style="font-size:14px; color:#aaa; max-width:600px;">
-    📋 <strong>CRUD Operations Project</strong> — Full-stack ASP.NET Core MVC Application using <strong>Entity Framework Core</strong> with robust <strong>Create, Read, Update, Delete</strong> functionality and a clean, intuitive <strong>UI/UX design</strong>.
-  </p>
+  <!-- Project Card 2 -->
+  <div style="background:#1E1E2F; color:#fff; width:300px; border-radius:12px; padding:20px; box-shadow:0 8px 20px rgba(0,0,0,0.3); transition:transform 0.3s; text-align:left;" 
+       onmouseover="this.style.transform='translateY(-8px)';" 
+       onmouseout="this.style.transform='translateY(0)';">
+    <h2 style="margin-top:0;">🛒 Talabat Web API</h2>
+    <p style="font-size:14px; color:#ccc;">
+      High-performance E-commerce Platform with <strong>.NET 8</strong> & <strong>Onion Architecture</strong>. Features <strong>JWT Auth</strong>, <strong>Stripe Payments</strong>, <strong>Specification Pattern</strong>, and <strong>Redis optimization</strong>.
+    </p>
+    <a href="https://github.com/abdulrahman11a/Talabat_Web_Api" style="color:#40E050; font-weight:bold; text-decoration:none;">View Project →</a>
+  </div>
+
+  <!-- Project Card 3 -->
+  <div style="background:#1E1E2F; color:#fff; width:300px; border-radius:12px; padding:20px; box-shadow:0 8px 20px rgba(0,0,0,0.3); transition:transform 0.3s; text-align:left;" 
+       onmouseover="this.style.transform='translateY(-8px)';" 
+       onmouseout="this.style.transform='translateY(0)';">
+    <h2 style="margin-top:0;">📋 CRUD Project</h2>
+    <p style="font-size:14px; color:#ccc;">
+      Full-stack ASP.NET Core MVC App using <strong>EF Core</strong> with robust <strong>CRUD</strong> operations and clean, intuitive <strong>UI/UX</strong>.
+    </p>
+    <a href="https://github.com/abdulrahman11a/CRUD_Operations_Project" style="color:#40E050; font-weight:bold; text-decoration:none;">View Project →</a>
+  </div>
+
 </div>
 
 ---
