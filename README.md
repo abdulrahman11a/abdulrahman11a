@@ -7,21 +7,21 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Abdulrahman Fikry 👋</h1>
-<h2 align="center">Software Engineer | .NET Developer | Competitive Programmer</h2>
-<br>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=2500&pause=800&color=40E050&center=true&vCenter=true&width=600&lines=Abdulrahman+Fikry;Software+Engineer+%7C+.NET+Developer;Competitive+Programmer+%7C+Problem+Solver" alt="Typing SVG" />
+</h1>
 
 ---
 
 ### 🧭 About Me
 
-💡 Passionate **.NET Developer** focused on building scalable, maintainable backend systems and writing **clean, efficient, and reliable code**.  
-🎯 I love solving **algorithmic challenges** and following best practices like **SOLID**, **Design Patterns**, and **Clean Architecture**.  
-🚀 Always learning, improving, and contributing to open-source projects.  
+ Passionate **.NET Developer** focused on building scalable, maintainable backend systems and writing **clean, efficient, and reliable code**.  
+ I love solving **algorithmic challenges** and following best practices like **SOLID**, **Design Patterns**, and **Clean Architecture**.  
+ Always learning, improving, and contributing to open-source projects.  
 
 <div align="center">
-  <div style="background:linear-gradient(135deg,#f9f9f9,#f1f1f1); border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08); padding:18px; display:inline-block; margin-top:10px;">
-    <p style="font-style:italic; color:#444; font-size:17px; margin:0;">
+  <div style="background:linear-gradient(135deg,#fdfdfd,#f5f5f5); border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.05); padding:18px; display:inline-block; margin-top:10px;">
+    <p style="font-style:italic; color:#333; font-size:17px; margin:0;">
       “Clean code always looks like it was written by someone who cares.”
     </p>
     <p style="color:#666; font-size:14px; margin-top:4px;">— Robert C. Martin (Uncle Bob)</p>
@@ -31,8 +31,8 @@
 ---
 
 <p align="center">
-  <a href="https://www.google.com.eg/search?q=Abdulrahman+Fikry">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20new%20updates;Check%20my%20popular%20repositories;Welcome%20to%20my%20Profile!;Let's%20build%20something%20amazing!&font=Fira%20Code&center=true&color=30F050&pause=2000">
+  <a href="https://github.com/abdulrahman11a">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20for%20more%20updates!;Explore%20my%20latest%20projects;Let's%20build%20amazing%20things!&font=Poppins&center=true&color=3AF280&pause=2000">
   </a>
 </p>
 
@@ -96,5 +96,7 @@
 
 ---
 
-<h3 align="center" style="color:#40E050; font-style:italic;">“Code. Learn. Grow.”</h3>
-<p align="center"><i>Always open to collaboration and learning new technologies.</i></p>
+<h3 align="center" style="color:#3AF280; font-weight:600; font-style:italic;">
+  “I'm not a great programmer; I'm just a good programmer with great habits.”
+</h3>
+<p align="center" style="color:#888;">— Kent Beck</p>
