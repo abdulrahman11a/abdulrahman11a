@@ -1,0 +1,44 @@
+name: 📊 Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'   # every 3 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: abdulrahman11a
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Africa/Cairo
+          config_padding: 6%, 10%
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          output_action: commit
+          committer_message: "📊 Update metrics"
+          filename: metrics/github-metrics.svg
