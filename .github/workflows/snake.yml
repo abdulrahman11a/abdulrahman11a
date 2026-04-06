@@ -36,6 +36,6 @@ jobs:
           git diff --staged --quiet || git commit -m "🐍 Update snake animations"
           
           # Pull latest changes to avoid push rejection
-          git pull --rebase origin main
+          git pull --rebase origin main || true
           
           git push origin main
