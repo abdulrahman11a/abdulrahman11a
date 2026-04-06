@@ -61,7 +61,7 @@ svg = f'''<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
   <text x="768" y="36" font-family="monospace" font-size="20" fill="#00ff88" opacity="0.6">]</text>
 
   <!-- Greeting line -->
-  <text x="400" y="58" text-anchor="middle" font-family="'Segoe UI', monospace" font-size="15" fill="#6a9a7a" letter-spacing="2" filter="url(#glow)">{time_icon}  {greeting}, visitor!</text>
+  <text x="400" y="58" text-anchor="middle" font-family="'Segoe UI', monospace" font-size="15" fill="#6a9a7a" letter-spacing="2" filter="url(#glow)">{greeting}, visitor!</text>
 
   <!-- Name -->
   <text x="400" y="108" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="bold" fill="#00ff88" filter="url(#glow)">
