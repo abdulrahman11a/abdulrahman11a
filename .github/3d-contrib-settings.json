@@ -1,0 +1,22 @@
+{
+  "type": "ALL_DARK_NEON_GREEN",
+  "backgroundColor": "#0a0f0d",
+  "foregroundColor": "#00ff88",
+  "strongColor": "#00ff88",
+  "weakColor": "#0d2818",
+  "dayOfCode": {
+    "colorSettings": {
+      "type": "GRADIENT",
+      "colors": [
+        "#0d2818",
+        "#0d4020",
+        "#1a6630",
+        "#00cc66",
+        "#00ff88"
+      ]
+    }
+  },
+  "settings": {
+    "enableAnimation": true
+  }
+}
