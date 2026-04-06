@@ -24,6 +24,20 @@
   </a>
 </div>
 
+
+---
+
+<!-- SNAKE ANIMATIONS (auto-updated every 6 hours) -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="./dist/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./dist/snake-dark.svg"/>
+  <img alt="Snake Dark" src="./dist/snake-dark.svg" width="100%"/>
+</picture>
+
+<br>
+
+
 ---
 
 ## `$ whoami`
@@ -157,22 +171,7 @@ Focus    : Clean Architecture · SOLID Principles · Cloud-Native Systems
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Calendar"/>
 </div>
 
----
 
-<!-- SNAKE ANIMATIONS (auto-updated every 6 hours) -->
-<div align="center">
-
-**🟢 Dark Theme**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./dist/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="./dist/snake-dark.svg"/>
-  <img alt="Snake Dark" src="./dist/snake-dark.svg" width="100%"/>
-</picture>
-
-<br>
-
----
 
 ## `$ ./connect --all`
 
