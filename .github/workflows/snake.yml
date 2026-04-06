@@ -38,4 +38,4 @@ jobs:
           # Pull latest changes to avoid push rejection
           git pull --rebase origin main || true
           
-          git push origin main
+          git push origin main || true
