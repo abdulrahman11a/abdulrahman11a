@@ -32,13 +32,13 @@
 Name     : Abdulrahman Fikry
 Role     : .NET Developer | DevOps Engineer
 Location : Egypt 🇪🇬
-Status   : Open to Work ✅
+Status   : Open to Work 
 Focus    : Clean Architecture · SOLID Principles · Cloud-Native Systems
 ```
 
 ---
 
-## `$ cat stats.json`
+## `$ cat stats`
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Focus    : Clean Architecture · SOLID Principles · Cloud-Native Systems
 
 ---
 
-## `$ ls tech-stack/`
+## `$ ls tech-stack`
 
 <div align="center">
 
@@ -103,21 +103,6 @@ Focus    : Clean Architecture · SOLID Principles · Cloud-Native Systems
 </div>
 
 ---
-
-## `$ cat pipeline.sh`
-
-```
-  Code Push ──► GitHub ──► Jenkins CI ──► Build & Test ──► Docker Image
-                                                                 │
-                                                                 ▼
-                                                    Push to Container Registry
-                                                                 │
-                                                                 ▼
-                                                ArgoCD (GitOps) ──► Kubernetes Cluster
-                                                                 │
-                                                                 ▼
-                                               Terraform manages Cloud Infra on Azure ☁️
-```
 
 ---
 
@@ -174,8 +159,6 @@ Focus    : Clean Architecture · SOLID Principles · Cloud-Native Systems
 
 ---
 
-## `$ ./snake --all-themes`
-
 <!-- SNAKE ANIMATIONS (auto-updated every 6 hours) -->
 <div align="center">
 
@@ -188,18 +171,6 @@ Focus    : Clean Architecture · SOLID Principles · Cloud-Native Systems
 </picture>
 
 <br>
-
-**⚡ Neon Theme**
-
-<img src="./dist/snake-neon.svg" width="100%" alt="Snake Neon"/>
-
-<br>
-
-**🌊 Ocean Theme**
-
-<img src="./dist/snake-ocean.svg" width="100%" alt="Snake Ocean"/>
-
-</div>
 
 ---
 
