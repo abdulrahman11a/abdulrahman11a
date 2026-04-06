@@ -73,7 +73,10 @@ svg = f'''<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
     {title}
   </text>
 
+</svg>'''
+
 os.makedirs("dynamic-svg", exist_ok=True)
+
 with open("dynamic-svg/header.svg", "w", encoding="utf-8") as f:
     f.write(svg)
 
