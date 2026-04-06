@@ -39,16 +39,17 @@
 
 
 ---
+<div align="center">
 
 ## `$ whoami`
 
-```terminal
-Name     : Abdulrahman Fikry
-Role     : .NET Developer | DevOps Engineer
-Location : Egypt 🇪🇬
-Status   : Open to Work 
-Focus    : Clean Architecture · SOLID Principles · Cloud-Native Systems
-```
+**Name**     : Abdulrahman Fikry  
+**Role**     : .NET Developer | DevOps Engineer  
+**Location** : Egypt 🇪🇬  
+**Status**   : Open to Work  
+**Focus**    : Clean Architecture · SOLID Principles · Cloud-Native Systems
+
+</div>
 
 ---
 
