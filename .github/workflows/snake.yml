@@ -16,23 +16,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      # Default dark snake
-      - name: Generate Snake (Dark)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: abdulrahman11a
-          outputs: |
-            dist/snake-dark.svg?color_snake=#00ff88&color_dots=#0a0f0d,#0d2818,#1a4a2e,#00cc66,#00ff88
-
-      # Neon green snake
-      - name: Generate Snake (Neon)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: abdulrahman11a
-          outputs: |
-            dist/snake-neon.svg?color_snake=#39ff14&color_dots=#000000,#003300,#006600,#009900,#00cc00
-
+        
       # Ocean snake
       - name: Generate Snake (Ocean)
         uses: Platane/snk@v3
@@ -45,6 +29,11 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
           git add dist/
           git diff --staged --quiet || git commit -m "🐍 Update snake animations"
-          git push
+          
+          # Pull latest changes to avoid push rejection
+          git pull --rebase origin main
+          
+          git push origin main
