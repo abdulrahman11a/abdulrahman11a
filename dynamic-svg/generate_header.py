@@ -25,7 +25,7 @@ else:
 name = "Abdulrahman Fikry"
 title = ".NET Developer | DevOps Engineer"
 
-svg = f'''<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+svg = f"""<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0a0f0d"/>
@@ -73,7 +73,7 @@ svg = f'''<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
     {title}
   </text>
 
-</svg>'''
+</svg>"""
 
 os.makedirs("dynamic-svg", exist_ok=True)
 
