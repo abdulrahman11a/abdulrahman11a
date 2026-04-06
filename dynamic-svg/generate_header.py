@@ -13,20 +13,14 @@ hour = now.hour
 # Dynamic greeting
 if 5 <= hour < 12:
     greeting = "Good Morning"
-    greeting_ar = "صباح الخير"
-    time_icon = "🌅"
 elif 12 <= hour < 17:
     greeting = "Good Afternoon"
-    greeting_ar = "مساء النور"
-    time_icon = "☀️"
+
 elif 17 <= hour < 21:
     greeting = "Good Evening"
-    greeting_ar = "مساء الخير"
-    time_icon = "🌆"
+
 else:
     greeting = "Good Night"
-    greeting_ar = "تصبح على خير"
-    time_icon = "🌙"
 
 name = "Abdulrahman Fikry"
 title = ".NET Developer | DevOps Engineer"
