@@ -33,7 +33,7 @@ jobs:
           path: cards/pin-talabat.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # كارت مشروع CRUD_Operations_Project
+      #  CRUD_Operations_Project
       - name: Generate CRUD_Operations_Project pin card
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
