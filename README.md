@@ -83,50 +83,58 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0f0d,50:0d2818,100:0a0f0d&height=70&section=header&text=Tech%20Stack&fontSize=26&fontColor=00ff88&animation=fadeIn&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0f0d,50:0d2818,100:0a0f0d&height=80&section=header&text=Tech%20Stack&fontSize=28&fontColor=00ff88&animation=fadeIn&fontAlignY=70"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=14&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=600&height=25&lines=Backend+Development;DevOps+%26+GitOps;Cloud-Native+Systems" alt="Typing SVG"/>
+
+<br>
 
 **⚙️ Backend & Languages**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,go,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,go,js,html,css&theme=dark&perline=7" />
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d2818,100:0a0f0d&height=20&animation=fadeIn"/>
 
 **🗄️ Databases, Caching & Messaging**
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,mongodb&theme=dark&perline=7" />
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d2818,100:0a0f0d&height=20&animation=fadeIn"/>
 
 **☁️ DevOps, Cloud & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,azure,linux,bash,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,azure,linux,bash,nginx&theme=dark&perline=8" />
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d2818,100:0a0f0d&height=20&animation=fadeIn"/>
 
 **📊 CI/CD & Observability**
 
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,grafana,prometheus,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,grafana,prometheus,git,github&theme=dark&perline=6" />
 
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d2818,100:0a0f0d&height=20&animation=fadeIn"/>
 
 **🔧 Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=postman,visualstudio,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postman,visualstudio,vscode&theme=dark&perline=3" />
 
 <br><br>
 
+<div>
 <img src="https://img.shields.io/badge/Docker_Compose-0a0f0d?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/ArgoCD-0d2818?style=for-the-badge&logo=argo&logoColor=EF7B4D"/>
 <img src="https://img.shields.io/badge/GitOps-0d1117?style=for-the-badge&logo=argo&logoColor=00ff88"/>
 <img src="https://img.shields.io/badge/Kustomize-0a0f0d?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
 <img src="https://img.shields.io/badge/Helm-0d1117?style=for-the-badge&logo=helm&logoColor=0F1689"/>
+</div>
+<div>
 <img src="https://img.shields.io/badge/CI/CD-0d1117?style=for-the-badge&logo=githubactions&logoColor=00ff88"/>
 <img src="https://img.shields.io/badge/ASP.NET_Core-0d2818?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Entity_Framework-0a0f0d?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Clean_Architecture-0d1117?style=for-the-badge&logo=dotnet&logoColor=00ff88"/>
 <img src="https://img.shields.io/badge/SOLID_Principles-0d2818?style=for-the-badge&logo=dotnet&logoColor=00ff88"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0f0d,50:0d2818,100:0a0f0d&height=40&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0f0d,50:0d2818,100:0a0f0d&height=50&section=footer"/>
 
 </div>
 
