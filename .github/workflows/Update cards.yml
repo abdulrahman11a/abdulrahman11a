@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # كارت مشروع MyZoo
+      #  MyZoo
       - name: Generate MyZoo pin card
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
