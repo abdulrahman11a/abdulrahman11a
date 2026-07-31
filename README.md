@@ -83,11 +83,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0d,50:0d2818,100:0a0f0d&height=70&section=header&text=Tech%20Stack&fontSize=26&fontColor=00ff88&animation=fadeIn&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0f0d,50:0d2818,100:0a0f0d&height=70&section=header&text=Tech%20Stack&fontSize=26&fontColor=00ff88&animation=fadeIn&fontAlignY=65"/>
 
 **⚙️ Backend & Languages**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,go,js,html,css&theme=dark" />
 
 <br><br>
 
@@ -115,6 +115,7 @@
 
 <br><br>
 
+<img src="https://img.shields.io/badge/Docker_Compose-0a0f0d?style=for-the-badge&logo=docker&logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/ArgoCD-0d2818?style=for-the-badge&logo=argo&logoColor=EF7B4D"/>
 <img src="https://img.shields.io/badge/GitOps-0d1117?style=for-the-badge&logo=argo&logoColor=00ff88"/>
 <img src="https://img.shields.io/badge/Kustomize-0a0f0d?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
@@ -125,7 +126,7 @@
 <img src="https://img.shields.io/badge/Clean_Architecture-0d1117?style=for-the-badge&logo=dotnet&logoColor=00ff88"/>
 <img src="https://img.shields.io/badge/SOLID_Principles-0d2818?style=for-the-badge&logo=dotnet&logoColor=00ff88"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0d,50:0d2818,100:0a0f0d&height=40&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0f0d,50:0d2818,100:0a0f0d&height=40&section=footer"/>
 
 </div>
 
