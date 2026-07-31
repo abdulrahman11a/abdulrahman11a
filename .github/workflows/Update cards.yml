@@ -24,7 +24,7 @@ jobs:
           path: cards/pin-myzoo.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # كارت مشروع Talabat_Web_Api
+      #Talabat_Web_Api
       - name: Generate Talabat_Web_Api pin card
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
