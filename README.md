@@ -127,13 +127,13 @@
 <div align="center">
 
 <a href="https://github.com/abdulrahman11a/MyZoo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahman11a&repo=MyZoo&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
+  <img src="./cards/pin-myzoo.svg"/>
 </a>
 <a href="https://github.com/abdulrahman11a/Talabat_Web_Api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahman11a&repo=Talabat_Web_Api&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
+  <img src="./cards/pin-talabat.svg"/>
 </a>
 <a href="https://github.com/abdulrahman11a/CRUD_Operations_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdulrahman11a&repo=CRUD_Operations_Project&theme=github_dark&border_color=00ff88&title_color=00ff88&icon_color=00ff88"/>
+  <img src="./cards/pin-crud.svg"/>
 </a>
 
 </div>
@@ -161,7 +161,7 @@
 ## `$ cat trophies.txt`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulrahman11a&theme=onestar&no-bg=true&no-frame=true&row=1&column=7"/>
+  <img src="./cards/trophy.svg"/>
 </div>
 
 ---
