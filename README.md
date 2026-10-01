@@ -1,241 +1,107 @@
-<!-- DYNAMIC HEADER SVG (auto-updated every hour with greeting) -->
 <div align="center">
-  <img src="./dynamic-svg/header.svg" width="100%" alt="Abdulrahman Fikry — Dynamic Header"/>
-</div>
 
-<!-- TYPING SVG -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+.NET+Core+Developer;DevOps+%7C+K8s+%7C+Terraform+%7C+ArgoCD;Competitive+Programmer+%7C+Problem+Solver;Clean+Architecture+%7C+SOLID+Principles" alt="Typing SVG"/>
-</div>
+[![Dynamic Header](https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/dynamic-svg/header.svg)](https://github.com/abdulrahman11a)
 
-<br>
+<img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/opentowork.svg" height="32" alt="Open to Work"/> <a href="https://gh-most-followed.pages.dev/egypt"><img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/followed.svg" height="32" alt="Most Followed Egypt"/></a> <a href="https://committers.top/egypt"><img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/active.svg" height="32" alt="Most Active Egypt"/></a>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/⚡_Status-Open%20to%20Work-00ff88?style=for-the-badge&labelColor=0a0f0d"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=abdulrahman11a&style=for-the-badge&color=0d2818&labelColor=0a0f0d"/>
-  &nbsp;
-  <a href="https://gh-most-followed.pages.dev/egypt">
-    <img src="https://img.shields.io/badge/🏆_19th_Most_Followed-Egypt_2025-00ff88?style=for-the-badge&labelColor=0d1117"/>
-  </a>
-  &nbsp;
-  <a href="https://committers.top/egypt">
-    <img src="https://img.shields.io/badge/⚡_15th_Most_Active-Egypt_2025-00ff88?style=for-the-badge&labelColor=0d1117"/>
-  </a>
-</div>
-
-
----
-
-<!-- SNAKE ANIMATIONS (auto-updated every 6 hours) -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./dist/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="./dist/snake-dark.svg"/>
-  <img alt="Snake Dark" src="./dist/snake-dark.svg" width="100%"/>
-</picture>
-
-<br>
+![Contribution Snake](https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/dist/snake-dark.svg)
 
 </div>
 
----
-<div align="center">
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
 
-## `$ whoami`
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"/> About Me
 
-**Name**     : Abdulrahman Fikry  
-**Role**     : .NET Developer | DevOps Engineer  
-**Location** : Egypt 🇪🇬  
-**Status**   : Open to Work  
-**Focus**    : Clean Architecture · SOLID Principles · Cloud-Native Systems
+```yaml
+name:     Abdulrahman Fikry
+role:     .NET Developer | DevOps Engineer
+location: Egypt
+focus:    [Clean Architecture, SOLID Principles, Cloud-Native Systems]
+status:   Open to Work
+```
 
-</div>
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
 
----
-
-## `$ cat stats`
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="28"/> Achievements & Metrics
 
 <div align="center">
 
-<!-- GITHUB METRICS (auto-updated every 3 hours) -->
-<img src="./metrics/github-metrics.svg" width="100%" alt="GitHub Metrics"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrahman11a&theme=github_dark" width="100%"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrahman11a&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulrahman11a&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulrahman11a&theme=github_dark" width="32%"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahman11a&theme=github-dark-blue&hide_border=true&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" width="60%"/>
+[![Detailed Metrics](https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/metrics/github-metrics.svg)](https://github.com/abdulrahman11a)
 
 </div>
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
 
-## `$ ls tech-stack`
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="28"/> Tech Stack
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0f0d,50:0d2818,100:0a0f0d&height=80&section=header&text=Tech%20Stack&fontSize=28&fontColor=00ff88&animation=fadeIn&fontAlignY=70"/>
+<img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/tech-stack.svg" width="800" alt="Tech Stack"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=600&size=14&duration=2500&pause=900&color=00FF88&center=true&vCenter=true&width=600&height=25&lines=Backend+Development;DevOps+%26+GitOps;Cloud-Native+Systems" alt="Typing SVG"/>
+<br/>
 
-<br>
-
-**⚙️ Backend & Languages**
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,go,js,html,css&theme=dark&perline=7" />
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d2818,100:0a0f0d&height=20&animation=fadeIn"/>
-
-**🗄️ Databases, Caching & Messaging**
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,mongodb&theme=dark&perline=7" />
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d2818,100:0a0f0d&height=20&animation=fadeIn"/>
-
-**☁️ DevOps, Cloud & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,azure,linux,bash,nginx&theme=dark&perline=8" />
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d2818,100:0a0f0d&height=20&animation=fadeIn"/>
-
-**📊 CI/CD & Observability**
-
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,grafana,prometheus,git,github&theme=dark&perline=6" />
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d2818,100:0a0f0d&height=20&animation=fadeIn"/>
-
-**🔧 Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=postman,visualstudio,vscode&theme=dark&perline=3" />
-
-<br><br>
-
-<div>
-<img src="https://img.shields.io/badge/Docker_Compose-0a0f0d?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/ArgoCD-0d2818?style=for-the-badge&logo=argo&logoColor=EF7B4D"/>
-<img src="https://img.shields.io/badge/GitOps-0d1117?style=for-the-badge&logo=argo&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Kustomize-0a0f0d?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/Helm-0d1117?style=for-the-badge&logo=helm&logoColor=0F1689"/>
-</div>
-<div>
-<img src="https://img.shields.io/badge/CI/CD-0d1117?style=for-the-badge&logo=githubactions&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/ASP.NET_Core-0d2818?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Entity_Framework-0a0f0d?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-0d1117?style=for-the-badge&logo=dotnet&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/SOLID_Principles-0d2818?style=for-the-badge&logo=dotnet&logoColor=00ff88"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0f0d,50:0d2818,100:0a0f0d&height=50&section=footer"/>
+<img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/clean.svg" height="32" alt="Clean Architecture"/> <img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/solid.svg" height="32" alt="SOLID"/>
 
 </div>
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
 
----
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="28"/> Featured Projects
 
-## `$ ls projects/`
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/abdulrahman11a/MyZoo">MyZoo</a></h3>
+      <p>Zoo management system built with .NET.</p>
+      <sub><code>C#</code> · <code>.NET</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/abdulrahman11a/Talabat_Web_Api">Talabat Web API</a></h3>
+      <p>E-commerce REST API with ASP.NET Core.</p>
+      <sub><code>ASP.NET Core</code> · <code>REST</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/abdulrahman11a/CRUD_Operations_Project">CRUD Operations</a></h3>
+      <p>CRUD app demonstrating data access patterns.</p>
+      <sub><code>C#</code> · <code>SQL</code></sub>
+    </td>
+  </tr>
+</table>
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"/> 3D Contributions
 
 <div align="center">
 
-<a href="https://github.com/abdulrahman11a/MyZoo">
-  <img src="./cards/pin-myzoo.svg"/>
-</a>
-<a href="https://github.com/abdulrahman11a/Talabat_Web_Api">
-  <img src="./cards/pin-talabat.svg"/>
-</a>
-<a href="https://github.com/abdulrahman11a/CRUD_Operations_Project">
-  <img src="./cards/pin-crud.svg"/>
-</a>
+[![3D Contributions](https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/profile-3d-contrib/profile-night-view.svg)](https://github.com/abdulrahman11a)
+
+<a href="https://skyline.github.com/abdulrahman11a/2025"><img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/skyline25.svg" height="32" alt="3D Skyline 2025"/></a> <a href="https://skyline.github.com/abdulrahman11a/2024"><img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/skyline24.svg" height="32" alt="3D Skyline 2024"/></a>
 
 </div>
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
 
-## `$ ./problem-solving`
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"/> Problem Solving
 
 <div align="center">
 
-<a href="https://leetcode.com/u/abdulrahmanfikry1/">
-  <img height="280" src="https://leetcard.jacoblin.cool/abdulrahmanfikry1?theme=dark&font=Space%20Mono&ext=heatmap" alt="LeetCode Stats"/>
-</a>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/abdulrahmanfikry1?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/abdulrahmanfikry1/)
 
-<br><br>
-
-<a href="https://codeforces.com/profile/ABDULRAHMANFIKRY0">
-  <img src="https://img.shields.io/badge/Codeforces-ABDULRAHMANFIKRY0-0a0f0d?style=for-the-badge&logo=codeforces&logoColor=4a76bd"/>
-</a>
+<a href="https://codeforces.com/profile/ABDULRAHMANFIKRY0"><img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/codeforces.svg" height="32" alt="Codeforces ABDULRAHMANFIKRY0"/></a>
 
 </div>
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
 
-## `$ cat trophies.txt`
-
-<div align="center">
-  <img src="./cards/trophy.svg"/>
-</div>
-
----
-
-## `$ ./3d-contrib --view`
-
-<!-- 3D CONTRIBUTION CALENDAR (auto-updated every 12 hours) -->
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Calendar"/>
-</div>
-
-
-
-## `$ ./connect --all`
+## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="28"/> Connect With Me
 
 <div align="center">
 
-<a href="mailto:abdulrahmanfikry1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0a0f0d?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-<a href="https://www.linkedin.com/in/abdulrahman-fikry-7787392a6/">
-  <img src="https://img.shields.io/badge/LinkedIn-0a0f0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="https://github.com/abdulrahman11a">
-  <img src="https://img.shields.io/badge/GitHub-0a0f0d?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://codeforces.com/profile/ABDULRAHMANFIKRY0">
-  <img src="https://img.shields.io/badge/Codeforces-0a0f0d?style=for-the-badge&logo=codeforces&logoColor=4a76bd"/>
-</a>
-<a href="https://leetcode.com/u/abdulrahmanfikry1/">
-  <img src="https://img.shields.io/badge/LeetCode-0a0f0d?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
+<a href="https://www.linkedin.com/in/abdulrahman-fikry-7787392a6/"><img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/linkedin.svg" height="32" alt="LinkedIn"/></a> <a href="mailto:abdulrahmanfikry1@gmail.com"><img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/gmail.svg" height="32" alt="Gmail"/></a> <a href="https://github.com/abdulrahman11a"><img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/github.svg" height="32" alt="GitHub"/></a> <a href="https://leetcode.com/u/abdulrahmanfikry1/"><img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/leetcode.svg" height="32" alt="LeetCode"/></a> <a href="https://codeforces.com/profile/ABDULRAHMANFIKRY0"><img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/codeforces.svg" height="32" alt="Codeforces"/></a> <a href="https://drive.google.com/drive/folders/1nG5q3Yl-fvFKML0jFUDFy3qa5CEEFbpV"><img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/resume.svg" height="32" alt="Resume"/></a>
 
-<br><br>
+<br/>
 
-<a href="https://drive.google.com/drive/folders/1nG5q3Yl-fvFKML0jFUDFy3qa5CEEFbpV">
-  <img src="https://img.shields.io/badge/📄_View_My_CV-0d2818?style=for-the-badge&logo=google-drive&logoColor=00ff88"/>
-</a>
-
-<br><br>
-
-<a href="https://skyline.github.com/abdulrahman11a/2025">
-  <img src="https://img.shields.io/badge/🏙️_3D_Skyline_2025-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://skyline.github.com/abdulrahman11a/2024">
-  <img src="https://img.shields.io/badge/🏙️_3D_Skyline_2024-0a0f0d?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-*"I'm not a great programmer; I'm just a good programmer with great habits."*
-**— Kent Beck**
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f0d,50:0d2818,100:0a0f0d&height=120&section=footer&fontColor=00ff88"/>
+*"I'm not a great programmer; I'm just a good programmer with great habits."* — **Kent Beck**
 
 </div>
