@@ -38,10 +38,6 @@ status:   Open to Work
 
 <img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/tech-stack.svg" width="800" alt="Tech Stack"/>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/clean.svg" height="32" alt="Clean Architecture"/> <img src="https://raw.githubusercontent.com/abdulrahman11a/abdulrahman11a/main/assets/solid.svg" height="32" alt="SOLID"/>
-
 </div>
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
